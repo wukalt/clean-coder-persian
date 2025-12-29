@@ -1,8 +1,27 @@
+<p align="center">
+    <a href="https://github.com/wukalt/clean-coder-persian">
 <img src="assets/images/cover/cover.jpg" alt="The Clean Coder Book Cover" width="400"/>
+</p>
+      
+ <h1 align="center">📘 ترجمه فارسی کتاب The Clean Coder</h1>
+<p align="center">
+ مرجع اخلاق و اصول برنامه‌نویسی
+<p align="center">
+  <img src="https://img.shields.io/github/stars/wukalt/clean-coder-persian?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/wukalt/clean-coder-persian?color=blueviolet" alt="GitHub forks">
+  <img src="https://img.shields.io/github/last-commit/wukalt/clean-coder-persian?color=9cf" alt="Last Commit">
+  <img src="https://img.shields.io/badge/Translation-100%25-success" alt="Translation Status">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=wukalt.clean-coder-persian" alt="Visitors">
+</p>
+
+<h1>
+<p align="center">
+   <a href="https://hheydarian.github.io/Gitab/" target="_blank"><strong>  گیتاب —  نسخه آنلاین کتاب </strong></a>
+</p>
+ </h1>
 
 کدی برای رفتار حرفه‌ای؛ مرجع اخلاق و اصول برنامه‌نویسی
 
-گیتاب — نسخه آنلاین کتاب
 ---
 
 ## ✨ معرفی پروژه
