@@ -1,3 +1,8 @@
+ <div align="center">
+
+![Conventions-UsedThis-Book](../../assets/images/02/2.png)
+</div>
+
 # نه گفتن
 
 «انجام بده؛ یا انجام نده. چیزی به نام سعی‌کردن وجود ندارد.»
