@@ -67,7 +67,7 @@
 | 11 | Pressure | فشار کاری | ✅ | [Pressure](Book/11_Pressure/Pressure.md) |
 | 12 | Collaboration | همکاری | ✅ | [Collaboration](Book/12_Collaboration/Collaboration.md) |
 | 13 | Teams | تیم‌ها | ✅ | [Teams](Book/13_Teams_and_Projects/Teams_and_Projects.md) |
-| 14 | Mentoring, Apprenticeship... | مربی‌گری و شاگردی | ✅ | [Mentoring_Apprenticeship_and_Craftsmanship](Book/14_Mentoring/Mentoring.md) |
+| 14 | Mentoring, Apprenticeship... | مربی‌گری و شاگردی | ✅ | [Mentoring ...](Book/14_Mentoring/Mentoring.md) |
 | 15 | Tooling_A | ضمیمه A | ✅ | [Tooling_A](Book/15_Tooling_A/Tooling_A.md) |
 
 ---
